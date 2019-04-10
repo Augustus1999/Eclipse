@@ -8,9 +8,11 @@ public class MainDecimalToFraction {
 		System.out.println("Input a decimal");
 		Scanner scanner = new Scanner(System.in);
 		double inputFromuser = scanner.nextDouble();
-		//int start = 0;
+		
 		System.out.println(inputFromuser);
-			
+
+		System.out.println("bye");
+
 	}
 
 }
